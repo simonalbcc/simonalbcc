@@ -1,5 +1,5 @@
 <h1 align="center">My fellow developpers 👋, I'm Simon Albicocco</h1>
-<h3 align="center">A passionate developer</h3>
+<h3 align="center">I'm an enthusiastic and dedicated developer, driven by my passion for crafting innovative solutions</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simonalbcc&label=Profile%20views&color=0e75b6&style=flat" alt="simonalbcc" /> </p>
 
